@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.32.1 (2026-08-03)
+
+Full Changelog: [bedrock-sdk-v0.32.0...bedrock-sdk-v0.32.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.32.0...bedrock-sdk-v0.32.1)
+
+### Bug Fixes
+
+* **client:** use hardcoded User-Agent strings instead of constructor names ([0b97f04](https://github.com/anthropics/anthropic-sdk-typescript/commit/0b97f04042584d234162a7ff8a5c4b8095ad800e))
+
 ## 0.32.0 (2026-06-30)
 
 Full Changelog: [bedrock-sdk-v0.31.0...bedrock-sdk-v0.32.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/bedrock-sdk-v0.31.0...bedrock-sdk-v0.32.0)

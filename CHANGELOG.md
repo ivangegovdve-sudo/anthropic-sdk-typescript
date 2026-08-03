@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.116.0 (2026-08-03)
+
+Full Changelog: [sdk-v0.115.0...sdk-v0.116.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.115.0...sdk-v0.116.0)
+
+### Features
+
+* **api:** add `mid-conversation-tool-changes-2026-07-01` beta ([70e04f6](https://github.com/anthropics/anthropic-sdk-typescript/commit/70e04f689baa233e7cb2fed6bb807562f5595928))
+
+
+### Bug Fixes
+
+* **client:** use hardcoded User-Agent strings instead of constructor names ([0b97f04](https://github.com/anthropics/anthropic-sdk-typescript/commit/0b97f04042584d234162a7ff8a5c4b8095ad800e))
+
+
+### Chores
+
+* **internal:** codegen related update ([73b3d61](https://github.com/anthropics/anthropic-sdk-typescript/commit/73b3d61009118740b0931b537ce03b212c62ab05))
+
 ## 0.115.0 (2026-07-24)
 
 Full Changelog: [sdk-v0.114.0...sdk-v0.115.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.114.0...sdk-v0.115.0)

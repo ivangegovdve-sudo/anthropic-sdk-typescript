@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.1 (2026-08-03)
+
+Full Changelog: [foundry-sdk-v0.4.0...foundry-sdk-v0.4.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.4.0...foundry-sdk-v0.4.1)
+
+### Bug Fixes
+
+* **client:** use hardcoded User-Agent strings instead of constructor names ([0b97f04](https://github.com/anthropics/anthropic-sdk-typescript/commit/0b97f04042584d234162a7ff8a5c4b8095ad800e))
+
 ## 0.4.0 (2026-06-18)
 
 Full Changelog: [foundry-sdk-v0.3.1...foundry-sdk-v0.4.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/foundry-sdk-v0.3.1...foundry-sdk-v0.4.0)

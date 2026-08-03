@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.7 (2026-08-03)
+
+Full Changelog: [google-cloud-sdk-v0.0.6...google-cloud-sdk-v0.0.7](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.6...google-cloud-sdk-v0.0.7)
+
+### Bug Fixes
+
+* **client:** use hardcoded User-Agent strings instead of constructor names ([0b97f04](https://github.com/anthropics/anthropic-sdk-typescript/commit/0b97f04042584d234162a7ff8a5c4b8095ad800e))
+
 ## 0.0.6 (2026-07-17)
 
 Full Changelog: [google-cloud-sdk-v0.0.5...google-cloud-sdk-v0.0.6](https://github.com/anthropics/anthropic-sdk-typescript/compare/google-cloud-sdk-v0.0.5...google-cloud-sdk-v0.0.6)

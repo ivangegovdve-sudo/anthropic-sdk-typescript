@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.6.2 (2026-08-03)
+
+Full Changelog: [aws-sdk-v0.6.1...aws-sdk-v0.6.2](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.1...aws-sdk-v0.6.2)
+
+### Bug Fixes
+
+* **client:** use hardcoded User-Agent strings instead of constructor names ([0b97f04](https://github.com/anthropics/anthropic-sdk-typescript/commit/0b97f04042584d234162a7ff8a5c4b8095ad800e))
+
 ## 0.6.1 (2026-07-20)
 
 Full Changelog: [aws-sdk-v0.6.0...aws-sdk-v0.6.1](https://github.com/anthropics/anthropic-sdk-typescript/compare/aws-sdk-v0.6.0...aws-sdk-v0.6.1)
